@@ -1,6 +1,8 @@
 // Copyright 2022 NNTU-CS
-#include  "tree.h"
+
 #include <vector>
+
+#include  "tree.h"
 
 int PMTree::factorial(int n) const {
   int res = 1;
