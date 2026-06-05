@@ -1,8 +1,8 @@
 // Copyright 2022 NNTU-CS
 #include "tree.h"
-#include <iostream>
-#include <ctime>
 #include <cstdlib>
+#include <ctime>
+#include <iostream>
 
 using namespace std;
 
