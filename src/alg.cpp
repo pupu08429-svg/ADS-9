@@ -1,6 +1,5 @@
 // Copyright 2022 NNTU-CS
 #include  "tree.h"
-
 #include <vector>
 
 int PMTree::factorial(int n) const {
